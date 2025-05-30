@@ -4,12 +4,21 @@
   <meta charset="UTF-8">
   <title>Dev Notes</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Favicon -->
+  <link rel="icon" href="https://cdn.jsdelivr.net/gh/dwyl/beautiful-docs/favicon.ico" type="image/x-icon">
+
+  <!-- Estilos del tema (puedes usar: vue.css, buble.css, dark.css, pure.css) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+
   <script>
     window.$docsify = {
-      name: 'Dev Notes',
+      name: '📚 Dev Notes',
       repo: '',
       loadSidebar: true,
-      subMaxLevel: 2
+      subMaxLevel: 2,
+      loadNavbar: false,       // Puedes cambiar a true si quieres usar _navbar.md
+      coverpage: false         // Cambia a true si quieres usar cover.md
     };
   </script>
 </head>
