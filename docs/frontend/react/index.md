@@ -1,3 +1,0 @@
-# React
-
-Contenido en react.

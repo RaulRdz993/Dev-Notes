@@ -1,3 +1,0 @@
-# Javascript
-
-Contenido en javascript.

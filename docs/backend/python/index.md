@@ -1,3 +1,0 @@
-# Python
-
-Contenido en python.

@@ -1,3 +1,0 @@
-# Tailwind
-
-Contenido en tailwind.

@@ -1,3 +1,0 @@
-# Docker
-
-Contenido en docker.

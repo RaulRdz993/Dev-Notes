@@ -1,3 +1,0 @@
-# Svelte
-
-Contenido en svelte.

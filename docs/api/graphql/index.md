@@ -1,3 +1,0 @@
-# Graphql
-
-Contenido en graphql.

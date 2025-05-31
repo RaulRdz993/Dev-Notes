@@ -1,3 +1,0 @@
-# Capacitor
-
-Contenido en capacitor.

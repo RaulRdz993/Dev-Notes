@@ -1,3 +1,0 @@
-# Vue
-
-Contenido en vue.

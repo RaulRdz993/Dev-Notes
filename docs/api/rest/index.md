@@ -1,3 +1,0 @@
-# Rest
-
-Contenido en rest.

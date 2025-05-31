@@ -1,3 +1,0 @@
-# Sql
-
-Contenido en sql.
